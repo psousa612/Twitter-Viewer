@@ -23,17 +23,17 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Users sees an app icon in home screen, a styled launch screen, and can log in.
-<img src='http://g.recordit.co/BHqj5dlawH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+Users sees an app icon in home screen, a styled launch screen, and can log in.<br>
+<img src='http://g.recordit.co/BHqj5dlawH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' > <br>
 
-Users can log out.
-<img src='http://g.recordit.co/VLNA0wB0cw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+Users can log out.<br>
+<img src='http://g.recordit.co/VLNA0wB0cw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' > <br>
 
-Users can stay logged in across restarts.
-<img src='http://g.recordit.co/sE2qWMXldH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+Users can stay logged in across restarts.<br>
+<img src='http://g.recordit.co/sE2qWMXldH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' > <br>
 
-Users can view tweets with the user's profile picture, username, and tweet text shown.
-<img src='http://g.recordit.co/ZlUfSXk6Ko.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> <br>
+Users can view tweets with the user's profile picture, username, and tweet text shown.<br>
+<img src='http://g.recordit.co/ZlUfSXk6Ko.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' > <br>
 
 
 ## Notes
